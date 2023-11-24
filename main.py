@@ -1,5 +1,3 @@
-# hello.py
-
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 class SimpleHandler(BaseHTTPRequestHandler):
